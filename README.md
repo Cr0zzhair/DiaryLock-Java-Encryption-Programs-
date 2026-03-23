@@ -188,7 +188,3 @@ Konsep composition juga diterapkan pada class `Encryption`, di mana class terseb
 # Uniq
 
 Sebenarnya saya belum mengetahui secara detail kode atau studi kasus yang dimiliki oleh teman saya. Oleh karena itu, saya akan menjelaskan perbedaan yang ada dibandingkan dengan materi sebelumnya. Pada kode yang saya buat, pengguna sudah dapat melakukan input secara langsung, tidak lagi terbatas pada nilai yang di-hardcode, sehingga program menjadi lebih fleksibel dan interaktif.
-
-### Highlight
-
-### Materials
